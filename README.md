@@ -1,4 +1,4 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет+рад+тебя+видеть!)](https://git.io/typing-svg)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Привет, рад тебя видеть!</h1>
 
 
 <p>Добро пожаловать! </br> Меня зовут Константин, я из <img src="https://flagcdn.com/16x12/ru.png" width="13"/> <b>России</b></p>
