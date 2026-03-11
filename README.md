@@ -21,7 +21,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<div style="display: 'flex', align-items: 'center'">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Invision861)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Invision861)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
 
