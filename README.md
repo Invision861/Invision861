@@ -23,6 +23,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Invision861)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
 
 <h3>Как меня найти</h3>
